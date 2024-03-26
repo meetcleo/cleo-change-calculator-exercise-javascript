@@ -1,1 +1,7 @@
-# cleo-change-calculator-exercise-javascript
+# Cleo Change Calculator Exercise (JavaScript)
+
+## Run it
+
+```shell
+npm run test
+```
